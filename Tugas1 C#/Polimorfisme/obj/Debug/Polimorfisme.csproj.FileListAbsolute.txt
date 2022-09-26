@@ -1,0 +1,8 @@
+C:\Users\user\OneDrive\Dokumen\ALDA KULIAH\Semester 3\Pemrograman Berorientasi Obyek\C#\Polimorfisme\bin\Debug\Polimorfisme.exe.config
+C:\Users\user\OneDrive\Dokumen\ALDA KULIAH\Semester 3\Pemrograman Berorientasi Obyek\C#\Polimorfisme\bin\Debug\Polimorfisme.exe
+C:\Users\user\OneDrive\Dokumen\ALDA KULIAH\Semester 3\Pemrograman Berorientasi Obyek\C#\Polimorfisme\bin\Debug\Polimorfisme.pdb
+C:\Users\user\OneDrive\Dokumen\ALDA KULIAH\Semester 3\Pemrograman Berorientasi Obyek\C#\Polimorfisme\obj\Debug\Polimorfisme.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Dokumen\ALDA KULIAH\Semester 3\Pemrograman Berorientasi Obyek\C#\Polimorfisme\obj\Debug\Polimorfisme.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\OneDrive\Dokumen\ALDA KULIAH\Semester 3\Pemrograman Berorientasi Obyek\C#\Polimorfisme\obj\Debug\Polimorfisme.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Dokumen\ALDA KULIAH\Semester 3\Pemrograman Berorientasi Obyek\C#\Polimorfisme\obj\Debug\Polimorfisme.exe
+C:\Users\user\OneDrive\Dokumen\ALDA KULIAH\Semester 3\Pemrograman Berorientasi Obyek\C#\Polimorfisme\obj\Debug\Polimorfisme.pdb

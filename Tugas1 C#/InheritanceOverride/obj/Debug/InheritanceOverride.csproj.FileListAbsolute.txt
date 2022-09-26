@@ -1,0 +1,16 @@
+C:\Users\user\OneDrive\Dokumen\ALDA KULIAH\Semester 3\Pemrograman Berorientasi Obyek\C#\InheritanceOverride\bin\Debug\InheritanceOverride.exe.config
+C:\Users\user\OneDrive\Dokumen\ALDA KULIAH\Semester 3\Pemrograman Berorientasi Obyek\C#\InheritanceOverride\bin\Debug\InheritanceOverride.exe
+C:\Users\user\OneDrive\Dokumen\ALDA KULIAH\Semester 3\Pemrograman Berorientasi Obyek\C#\InheritanceOverride\bin\Debug\InheritanceOverride.pdb
+C:\Users\user\OneDrive\Dokumen\ALDA KULIAH\Semester 3\Pemrograman Berorientasi Obyek\C#\InheritanceOverride\obj\Debug\InheritanceOverride.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Dokumen\ALDA KULIAH\Semester 3\Pemrograman Berorientasi Obyek\C#\InheritanceOverride\obj\Debug\InheritanceOverride.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\OneDrive\Dokumen\ALDA KULIAH\Semester 3\Pemrograman Berorientasi Obyek\C#\InheritanceOverride\obj\Debug\InheritanceOverride.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Dokumen\ALDA KULIAH\Semester 3\Pemrograman Berorientasi Obyek\C#\InheritanceOverride\obj\Debug\InheritanceOverride.exe
+C:\Users\user\OneDrive\Dokumen\ALDA KULIAH\Semester 3\Pemrograman Berorientasi Obyek\C#\InheritanceOverride\obj\Debug\InheritanceOverride.pdb
+C:\Users\user\OneDrive\Dokumen\ALDA KULIAH\Semester 3\Pemrograman Berorientasi Obyek\C#\Tugas1 C#\InheritanceOverride\bin\Debug\InheritanceOverride.exe.config
+C:\Users\user\OneDrive\Dokumen\ALDA KULIAH\Semester 3\Pemrograman Berorientasi Obyek\C#\Tugas1 C#\InheritanceOverride\bin\Debug\InheritanceOverride.exe
+C:\Users\user\OneDrive\Dokumen\ALDA KULIAH\Semester 3\Pemrograman Berorientasi Obyek\C#\Tugas1 C#\InheritanceOverride\bin\Debug\InheritanceOverride.pdb
+C:\Users\user\OneDrive\Dokumen\ALDA KULIAH\Semester 3\Pemrograman Berorientasi Obyek\C#\Tugas1 C#\InheritanceOverride\obj\Debug\InheritanceOverride.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Dokumen\ALDA KULIAH\Semester 3\Pemrograman Berorientasi Obyek\C#\Tugas1 C#\InheritanceOverride\obj\Debug\InheritanceOverride.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\OneDrive\Dokumen\ALDA KULIAH\Semester 3\Pemrograman Berorientasi Obyek\C#\Tugas1 C#\InheritanceOverride\obj\Debug\InheritanceOverride.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Dokumen\ALDA KULIAH\Semester 3\Pemrograman Berorientasi Obyek\C#\Tugas1 C#\InheritanceOverride\obj\Debug\InheritanceOverride.exe
+C:\Users\user\OneDrive\Dokumen\ALDA KULIAH\Semester 3\Pemrograman Berorientasi Obyek\C#\Tugas1 C#\InheritanceOverride\obj\Debug\InheritanceOverride.pdb
